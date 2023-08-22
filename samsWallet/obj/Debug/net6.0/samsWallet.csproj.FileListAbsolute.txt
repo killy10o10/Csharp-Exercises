@@ -1,0 +1,15 @@
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\bin\Debug\net6.0\samsWallet.exe
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\bin\Debug\net6.0\samsWallet.deps.json
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\bin\Debug\net6.0\samsWallet.runtimeconfig.json
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\bin\Debug\net6.0\samsWallet.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\bin\Debug\net6.0\samsWallet.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.csproj.AssemblyReference.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.AssemblyInfoInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.AssemblyInfo.cs
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.csproj.CoreCompileInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\refint\samsWallet.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\samsWallet.genruntimeconfig.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\samsWallet\samsWallet\obj\Debug\net6.0\ref\samsWallet.dll
