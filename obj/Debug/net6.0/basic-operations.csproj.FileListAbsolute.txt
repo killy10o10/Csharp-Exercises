@@ -1,0 +1,15 @@
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\bin\Debug\net6.0\basic-operations.exe
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\bin\Debug\net6.0\basic-operations.deps.json
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\bin\Debug\net6.0\basic-operations.runtimeconfig.json
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\bin\Debug\net6.0\basic-operations.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\bin\Debug\net6.0\basic-operations.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.csproj.AssemblyReference.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.AssemblyInfoInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.AssemblyInfo.cs
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.csproj.CoreCompileInputs.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\refint\basic-operations.dll
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.pdb
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\basic-operations.genruntimeconfig.cache
+C:\Users\killy\Desktop\Personal Lessons\C#\console-app\basic-operations\obj\Debug\net6.0\ref\basic-operations.dll
